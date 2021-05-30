@@ -1,0 +1,47 @@
+id,Classification,precision,recall,f1-score,support
+0,Speed limit (20km/h),0.98,0.95,0.96,42
+1,Speed limit (30km/h),0.80,0.79,0.80,57
+2,Speed limit (50km/h),0.81,0.67,0.73,57
+3,Speed limit (60km/h),0.86,0.89,0.88,57
+4,Speed limit (70km/h),0.87,0.91,0.89,57
+5,Speed limit (80km/h),0.83,0.68,0.75,57
+6,End of speed limit (80km/h),0.92,0.95,0.93,57
+7,Speed limit (100km/h),0.80,0.82,0.81,57
+8,Speed limit (120km/h),0.92,0.82,0.87,57
+9,No passing,1.00,0.88,0.93,57
+10,No passing for vehicles over 3.5 metric tons,0.95,0.95,0.95,57
+11,Right-of-way at the next intersection,0.94,0.89,0.92,57
+12,Priority road,0.85,0.91,0.88,57
+13,Yield,0.90,0.96,0.93,57
+14,Stop,0.98,0.96,0.97,57
+15,No vehicles,0.85,0.96,0.90,57
+16,Vehicles over 3.5 metric tons prohibited,0.97,1.00,0.98,57
+17,No entry,0.97,0.98,0.97,57
+18,General caution,0.87,0.96,0.92,57
+19,Dangerous curve to the left,1.00,0.95,0.98,42
+20,Dangerous curve to the right,0.90,0.93,0.91,57
+21,Double curve,0.97,0.98,0.97,57
+22,Bumpy road,0.96,0.96,0.96,57
+23,Slippery road,0.98,0.98,0.98,57
+24,Road narrows on the right,1.00,0.94,0.97,54
+25,Road work,0.93,0.91,0.92,57
+26,Traffic signals,0.98,0.95,0.96,57
+27,Pedestrians,0.98,0.96,0.97,48
+28,Children crossing,0.96,0.88,0.92,57
+29,Bicycles crossing,0.88,0.91,0.89,54
+30,Beware of ice/snow,0.88,0.98,0.93,57
+31,Wild animals crossing,0.95,0.91,0.93,57
+32,End of all speed and passing limits,0.88,0.94,0.91,48
+33,Turn right ahead,0.97,1.00,0.98,57
+34,Turn left ahead,0.92,0.98,0.95,57
+35,Ahead only,0.93,0.93,0.93,57
+36,Go straight or right,0.97,0.98,0.97,57
+37,Go straight or left,1.00,0.95,0.98,42
+38,Keep right,0.93,0.95,0.94,57
+39,Keep left,0.98,1.00,0.99,57
+40,Roundabout mandatory,0.93,0.98,0.96,57
+41,End of no passing,0.96,0.90,0.92,48
+42,End of no passing by vehicles over 3.5 metric tons,1.00,0.98,0.99,48
+43,accuracy,,,0.93,2364
+44,macro avg,0.93,0.93,0.93,2364
+45,weighted avg,0.93,0.93,0.92,2364
